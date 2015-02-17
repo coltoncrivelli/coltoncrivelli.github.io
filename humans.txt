@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-    Dominic Doty
+    Colton Crivelli
 
 # TECHNOLOGY COLOPHON
 

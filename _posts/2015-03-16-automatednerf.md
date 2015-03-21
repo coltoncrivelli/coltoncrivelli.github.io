@@ -1,10 +1,65 @@
 ---
 title: Automated Nerf Turret
 layout: post
-image: /images/n64/laminator.jpg
+image: /images/nerf/final.jpg
 published: true
 ---
 
+Intro to Nerf Turrent
+
+<!-- more -->
+
+![Ideated Task Diagram]({{ site.url }}/images/nerf/rough_tasks.jpg)
+
+words about things
+
+![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.jpg)
+
+words about things
+
+![Finite State Machine for Task Seekill]({{ site.url }}/images/nerf/state_diagram.png)
+
+words about things
+
+![Finite State Machine for Task Control]({{ site.url }}/images/nerf/control_fsm.png)
+
+words about things
+
+![Encoder]({{ site.url }}/images/nerf/encoder.jpg)
+
+words about things
+
+![Power Supply Noise]({{ site.url }}/images/nerf/psu_noise.jpg)
+
+words about things
+
+![Ghost Interrupts]({{ site.url }}/images/nerf/bounce.jpg)
+
+words about things
+
+![Circuit Diagram]({{ site.url }}/images/nerf/circuitdiagram.png)
+
+words about things
+
+![Imager]({{ site.url }}/images/nerf/imager.jpg)
+
+words about things
+
+![Imager Focusing Light]({{ site.url }}/images/nerf/focus.jpg)
+
+words about things
+
+![Line Scan]({{ site.url }}/images/nerf/linescan.jpg)
+
+words about things
+
+![Automating Nerf Triggering]({{ site.url }}/images/nerf/nerfcontrol.jpg)
+
+words about things
+
+![Twisted Wires for Noise Reduction]({{ site.url }}/images/nerf/twist.jpg)
+
+words about things
 
 ![Automated Nerf Turret]({{ site.url }}/images/nerf/final.jpg)
 

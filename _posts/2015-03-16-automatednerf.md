@@ -13,11 +13,11 @@ Intro to Nerf Turrent
 
 words about things
 
-![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.jpg)
+![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.png)
 
 words about things
 
-![Finite State Machine for Task Seekill]({{ site.url }}/images/nerf/state_diagram.jpg)
+![Finite State Machine for Task Seekill]({{ site.url }}/images/nerf/state_diagram.png)
 
 words about things
 

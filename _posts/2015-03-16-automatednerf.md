@@ -9,19 +9,19 @@ Intro to Nerf Turrent
 
 <!-- more -->
 
-![Ideated Task Diagram]({{ site.url }}/images/nerf/rough_tasks.png)
+![Ideated Task Diagram]({{ site.url }}/images/nerf/rough_tasks.jpg)
 
 words about things
 
-![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.png)
+![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.jpg)
 
 words about things
 
-![Finite State Machine for Task Seekill]({{ site.url }}/images/nerf/state_diagram.png)
+![Finite State Machine for Task Seekill]({{ site.url }}/images/nerf/state_diagram.jpg)
 
 words about things
 
-![Finite State Machine for Task Control]({{ site.url }}/images/nerf/control_fsm.png)
+![Finite State Machine for Task Control]({{ site.url }}/images/nerf/control_fsm.jpg)
 
 words about things
 
@@ -37,7 +37,7 @@ words about things
 
 words about things
 
-![Circuit Diagram]({{ site.url }}/images/nerf/circuitdiagram.png)
+![Circuit Diagram]({{ site.url }}/images/nerf/circuitdiagram.jpg)
 
 words about things
 

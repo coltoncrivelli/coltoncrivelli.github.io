@@ -21,7 +21,7 @@ words about things
 
 words about things
 
-![Finite State Machine for Task Control]({{ site.url }}/images/nerf/control_fsm.jpg)
+![Finite State Machine for Task Control]({{ site.url }}/images/nerf/control_fsm.png)
 
 words about things
 

@@ -6,6 +6,6 @@ published: true
 ---
 
 
-![Automated Nerf Turret]({{ site.url }}/images/ner/final.jpg)
+![Automated Nerf Turret]({{ site.url }}/images/nerf/final.jpg)
 
 words about things

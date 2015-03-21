@@ -9,11 +9,11 @@ Intro to Nerf Turrent
 
 <!-- more -->
 
-![Ideated Task Diagram]({{ site.url }}/images/nerf/rough_tasks.jpg)
+![Ideated Task Diagram]({{ site.url }}/images/nerf/rough_tasks.png)
 
 words about things
 
-![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.jpg)
+![Final Task Diagram]({{ site.url }}/images/nerf/task_diagram.png)
 
 words about things
 

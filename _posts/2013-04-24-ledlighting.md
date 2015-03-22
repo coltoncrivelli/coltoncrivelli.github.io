@@ -7,6 +7,8 @@ published: true
 
 Intro to lighting
 
+<!-- more -->
+
 ![High Level Diagrams]({{ site.url }}/images/lighting/high_lvl_diag.png)
 
 Interesting words

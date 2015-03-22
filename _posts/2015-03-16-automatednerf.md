@@ -5,7 +5,7 @@ image: /images/nerf/final.jpg
 published: true
 ---
 
-Intro to Nerf Turrent
+The final project for my mechatronics class was to modify a Nerf gun giving it the ability to autonomously locate, and fire at, an incandescent bulb. The system relies on a RTOS and tasks, programmed in C++, encoders, phototransistors and much more. 
 
 <!-- more -->
 

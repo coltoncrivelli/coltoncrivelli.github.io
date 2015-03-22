@@ -5,7 +5,6 @@ image: /images/lighting/interesting_PWM.png
 published: true
 ---
 
-Intro to lighting
 When I moved into my apartment for my senior year at Cal Poly SLO, I realized that I had no suitable secondary light source for my room (i.e. a lamp) so naturally I decided to modify my roommate's 5m LED strip to act as an adjustable light source.
 
 <!-- more -->

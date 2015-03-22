@@ -1,7 +1,7 @@
 ---
 title: Continuous-time Delta-sigma System
 layout: post
-image: /images/n64/laminator.jpg
+image: /images/noiseshaping/noise_shaping_scope.png
 published: true
 ---
 

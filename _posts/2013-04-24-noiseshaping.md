@@ -5,7 +5,7 @@ image: /images/noiseshaping/noise_shaping_scope.png
 published: true
 ---
 
-Intro to Noise Shaping
+This was a project for my Advanced Analog Electronics Design course where I built a second-order continuous-time delta-sigma modulator.
 
 <!-- more -->
 

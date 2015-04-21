@@ -49,9 +49,13 @@ After picking an R value of 200k, I simulated the filter and found that the gain
 
 After simulating the low-pass filter, I measured the actual output. The focus was on the frequencies that resulted in a max gain, a gain of unity, and the 3dB gain. 
 
+![Closed Loop]({{ site.url }}/images/noiseshaping/closed_loop.png)
+
+The above image shows what the system looks like once the loop is closed.
+
 ![Scope Image Emphasizing Pulse Density Modulation]({{ site.url }}/images/noiseshaping/pdm_scope.png)
 
-This is a scope image after everything has been put together. This image emphasizes the interpolation from the second-order continuous-time delta-sigma modulator 
+This image emphasizes the interpolation from the second-order continuous-time delta-sigma modulator 
 
 
 ![Scope Image Emphasizing Noise Shaping]({{ site.url }}/images/noiseshaping/noise_shaping_scope.png)

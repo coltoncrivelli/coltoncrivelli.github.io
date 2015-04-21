@@ -30,10 +30,10 @@ This was a project for my Advanced Analog Electronics Design course where I buil
 ![Diagram of Low Pass Filter]({{ site.url }}/images/noiseshaping/LPF_diag.png)
 
 
-![Simulated Low Pass Filter Response]({{ site.url }}/images/noiseshaping/sim_LFP_response.png)
+![Simulated Low Pass Filter Response]({{ site.url }}/images/noiseshaping/sim_LPF_response.png)
 
 
-![Measured Low Pass Filter Response]({{ site.url }}/images/noiseshaping/LPF_meas_.png)
+![Measured Low Pass Filter Response]({{ site.url }}/images/noiseshaping/LPF_resp_meas.png)
 
 
 ![Scope Image Emphasizing Pulse Density Modulation]({{ site.url }}/images/noiseshaping/pdm_scope.png)

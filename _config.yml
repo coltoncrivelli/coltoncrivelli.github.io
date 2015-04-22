@@ -1,4 +1,5 @@
 pygments: true
 url: http://www.coltoncrivelli.com
 paginate: 5
-paginate_path: "/projects/page:num"
+%paginate_path: "/projects/page:num"
+paginate_path: "/about"

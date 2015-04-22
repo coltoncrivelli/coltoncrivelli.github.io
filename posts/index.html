@@ -1,0 +1,26 @@
+---
+title: Colton Crivelli
+---
+{% include header.html %}
+	{% for post in paginator.posts %}
+		<br>
+		<a href="{{post.url}}"><img src="{{site.url}}{{post.image}}"></a>
+		<b><a style="font-size:1.25em;" href="{{ post.url }}">{{ post.title }}</a></b>
+		<span class="date">{{ post.date | date_to_string }}</span>
+		<br>
+		<p>{{ post.content | split: '<!-- more -->' | first }}</p>
+		<hr>
+	{% endfor %}
+<br>
+<div style="text-align:center;">
+	{% if paginator.previous_page %}
+	<a href="{{ paginator.previous_page_path }}">Previous</a>
+	{% else %}
+	{% endif %}
+	&nbsp; {{ paginator.page }}/{{ paginator.total_pages }} &nbsp;
+	{% if paginator.next_page %}
+	<a href="{{ paginator.next_page_path }}">Next</a>
+	{% else %}
+	{% endif %}
+</div>
+{% include footer.html %}
